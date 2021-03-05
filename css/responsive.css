@@ -1,0 +1,134 @@
+@media(min-width:320px) and (max-width:576px){
+    .header-top {
+        display: none;
+    }
+    a.navbar-brand {
+        width: 23%;
+    }
+    .slide-content {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        color: #fff;
+        padding: 10px;
+    }
+    .slide-content h1 {
+        margin: 0;
+        font-size: 27px;
+        margin-bottom: 10px;
+    }
+    .slide-content p {
+        margin: 0;
+        margin-bottom: 12px;
+        font-size: 14px;
+    }
+    
+    .banner-content.text-center small {
+        
+        font-size: 13px;
+    }
+    .banner-content h3 {
+        font-size: 30px;
+        
+    }
+    /* about-area */
+section.about-area.p-80 {
+    padding: 0;
+}
+.btn.btn-info {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+    .about-thamb img {
+        border-radius: 0px;
+    }
+    .single-service-iteam {
+        border-radius: 0px;
+        margin-top: 20px;
+    }
+    .single-service-iteam h4 {
+        font-size: 18px;
+    }
+    .single-service-iteam p {
+        font-size: 14px;
+    }
+    .section-title h3 {
+        font-size: 24px;
+    }
+    .p-60 {
+        padding: 20px 0;
+    }
+    .event-article {
+        padding: 0 10px 20px 20px;
+        margin: 100px 0;
+    }
+.card {
+    margin-top: 20px;
+}
+.card-body p {
+    font-size: 13px;
+}
+.single-brand img {
+    margin-top: 20px;
+}
+.gellary-thumb {
+    
+    margin-bottom: 20px;
+}
+.gellary-wrapp {
+    flex-wrap: wrap;
+}
+.btn.btn-info {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.image-thamb img {
+    margin-top: 20px;
+}
+ h2 {
+        margin-top: 20px;
+}
+/* event-area */
+section.event-area.p-60 {
+    padding: 0px;
+}
+.event-profile {
+    width: 100%;
+}
+.event-article {
+    margin: 10px 0;
+}
+.event-article h3 {
+    
+    font-size: 24px;
+}
+.event-article h5 {
+    
+    padding-top: 5px;
+}
+.bottom-text h5 {
+    
+    font-size: 12px;
+}
+/* logo */
+.owl-carousel .owl-item img {
+    display: block;
+    width: 87%;
+}
+.single-logo img {
+    height: 50px;
+}
+/* about-area */
+.breadcrumb-area {
+    height: 200px !important;
+    
+}
+/* lamguage */
+.breadcrumb-area {
+    
+    width: 560px;
+}
+/* canada-area */
+.breadcrumb-area {
+   width: 0;
+}
